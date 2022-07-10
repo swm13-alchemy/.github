@@ -40,6 +40,8 @@ PILLUP-(지라티켓번호)/{branch name}-{work feature}
 
 ### Release branch를 뺀 Git Flow
 
+![branch 전략](https://user-images.githubusercontent.com/68740465/178145203-5078e3e9-e7bb-4aa4-93fd-78fc8e9db7f7.png)
+
 |Branch|목적|
 |---|---|
 |master|제품 출시|
